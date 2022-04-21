@@ -2,4 +2,4 @@
 # Infection Data Analysis
 # Vishaal Gupta, Lindsey Morales, Atika Hemani, Isaac Rosenthal
 ## Methods Used
-###### Various Plotting Methods (Scatterplots & Barplots), Linear Regression 
+Various Plotting Methods (Scatterplots & Barplots), Linear Regression 
