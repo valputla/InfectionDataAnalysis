@@ -32,7 +32,9 @@ A correlation coefficient of .724 was observed between Influenza & COVID-19 Deat
 Additionally, a correlation coefficient of .9985 was observed between Influenza & COVID-19 Deaths of all the states in the US. This shows how severe both of these diseases are and how they ultimately lead to death if not treated.
 ![pneumonia/covid/corr](Resources/Images/pneumonia_covid_corr.png)
 
+The SEM value for the sample Influenza Deaths is 0.515
 ![semflu](Resources/Images/SEMFlu.png)
 
+The SEM value for the sample Pneumonia Deaths is 27.09. 
 ![sempneumonia](Resources/Images/SEMPNA.png)
 
