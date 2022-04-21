@@ -8,7 +8,7 @@ Various Plotting Methods (Scatterplots & Barplots), Linear Regression, Data Visu
 Python, Matplotlib, Pandas, Seaborn, Numpy, Scipy.Stats
 
 ## Featured Notebooks and files
-**CovidDeathRateAnalysis** 
+**CovidDeathRateAnalysis.ipynb** 
 - Using Pandas and visualization packages, to look at COVID-19, Influenza, and Pneumonia deaths in the US and Puerto Rico from 2020-2022. This notebook starts off by cleaning the data and exploring what variables we have. This data exploration helped with creating meaningful visualizations, in order to tell a story about COVID-19 and the differences & similarites with Influenza and Pneumonia. This is our final notebook.
 
 **Resources Folder**
