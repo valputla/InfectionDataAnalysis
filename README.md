@@ -2,14 +2,14 @@
 # Infection Data Analysis
 # Vishaal Gupta, Lindsey Morales, Atika Hemani, Isaac Rosenthal
 ## Methods Used
-Various Plotting Methods (Scatterplots & Barplots), Linear Regression 
+Various Plotting Methods (Scatterplots & Barplots), Linear Regression, Data Visualization
 
 ## Technologies
 Python, Matplotlib, Pandas, Seaborn, Numpy, Scipy.Stats
 
 ## Featured Notebooks and files
 **CovidDeathRateAnalysis** 
-- Using Pandas and visualization packages, to look at COVID-19, Influenza, and Pneumonia deaths in the US and Puerto Rico from 2020-2022. This notebook starts off by cleaning the data and exploring what variables we have. This data exploration helped with creating meaningful visualizations, in order to tell a story about COVID-19 and the differences & similarites with Influenza and Pneumonia.
+- Using Pandas and visualization packages, to look at COVID-19, Influenza, and Pneumonia deaths in the US and Puerto Rico from 2020-2022. This notebook starts off by cleaning the data and exploring what variables we have. This data exploration helped with creating meaningful visualizations, in order to tell a story about COVID-19 and the differences & similarites with Influenza and Pneumonia. This is our final notebook.
 
 **Resources Folder**
 
@@ -37,4 +37,9 @@ The SEM value for the sample Influenza Deaths is 0.515
 
 The SEM value for the sample Pneumonia Deaths is 27.09. 
 ![sempneumonia](Resources/Images/SEMPNA.png)
+
+# Suggestions for Further Analysis
+- Compare the deaths of COVID-19 looking at the lens of pre-vaccine and post-vaccine
+- Additionally, using the information we have on COVID-19 Deaths for the US and compare this to another dataset looking at other countries
+- Also, we could look at correlation of COVID-19 Deathas and red/blue states
 
