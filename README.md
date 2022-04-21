@@ -33,10 +33,7 @@ Additionally, a correlation coefficient of .9985 was observed between Influenza 
 ![pneumonia/covid/corr](Resources/Images/pneumonia_covid_corr.png)
 
 The SEM value for the sample Influenza Deaths is 0.515
-![semflu](Resources/Images/SEMFlu.png)
 
-The SEM value for the sample Pneumonia Deaths is 27.09. 
-![sempneumonia](Resources/Images/SEMPNA.png)
 
 # Suggestions for Further Analysis
 - Compare the deaths of COVID-19 looking at the lens of pre-vaccine and post-vaccine
