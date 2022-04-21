@@ -20,6 +20,8 @@ Python, Matplotlib, Pandas, Seaborn, Numpy, Scipy.Stats
 - CSV file with our raw data. It looks at COVID-19, Influenza, and Pneumonia deaths by state, age group, gender, and month/year.
 
 ## Analysis and Observed Trends
+
+## Correlation Graphs and Trends
 A strong correlation was observed between Age Groups & COVID-19 Deaths of all the states in the US. This suggests the older you are, the risk of dying from COVID-19 is higher. This makes sense due to comorbidities of other diseases and differences in immune systems.
 ![AgeVsDeaths](Resources/Images/AgeVsDeaths.png)
 
