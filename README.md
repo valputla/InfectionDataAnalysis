@@ -3,3 +3,10 @@
 # Vishaal Gupta, Lindsey Morales, Atika Hemani, Isaac Rosenthal
 ## Methods Used
 Various Plotting Methods (Scatterplots & Barplots), Linear Regression 
+
+## Technologies
+Python, Matplotlib, Pandas, Seaborn, Numpy, Scipy.Stats
+
+## Featured Notebooks and files
+
+
