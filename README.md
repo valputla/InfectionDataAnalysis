@@ -2,7 +2,7 @@
 # Infection Data Analysis
 # Vishaal Gupta, Lindsey Morales, Atika Hemani, Isaac Rosenthal
 ## Methods Used
-Various Plotting Methods (Scatterplots & Barplots), Linear Regression, Data Visualization
+Various Plotting Methods (Scatterplots, Barplots, and Piecharts), Linear Regression, Data Visualization
 
 ## Technologies
 Python, Matplotlib, Pandas, Seaborn, Numpy, Scipy.Stats
