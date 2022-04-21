@@ -2,7 +2,7 @@
 # Infection Data Analysis
 # Vishaal Gupta, Lindsey Morales, Atika Hemani, Isaac Rosenthal
 ## Project Objective
-The purpose of this project is to examine COVID-19 Deaths, Influenza Deaths, and Pneumonia Deaths in the United States spanning from Jan 2020-March 2022.We decided to compare the number of deaths by age group, gender, and state. This gave us insights on what correlations can be drawn from our data. Additionally, we wanted to see how COVID-19 and Influenza differed, due to many individuals stating "COVID is just the flu". 
+The purpose of this project is to examine COVID-19 Deaths, Influenza Deaths, and Pneumonia Deaths in the United States spanning from Jan 2020-March 2022. We decided to compare the number of deaths by age group, gender, and state. This gave us insights on what correlations can be drawn from our data. Additionally, we wanted to see how COVID-19 and Influenza differed, due to many individuals stating "COVID is just the flu". 
 ## Methods Used
 - Various Plotting Methods (Scatterplots, Barplots, and Piecharts) 
 - Linear Regression 
