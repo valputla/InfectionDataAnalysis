@@ -26,10 +26,10 @@ Python, Matplotlib, Pandas, Seaborn, Numpy, Scipy.Stats
 A strong correlation was observed between Age Groups & COVID-19 Deaths in the US. This suggests the older you are, the risk of dying from COVID-19 is higher. This makes sense due to comorbidities of other diseases and differences in immune systems.
 ![AgeVsDeaths](Resources/Images/AgeVsDeaths.png)
 
-A correlation coefficient of .724 was observed between Influenza & COVID-19 Deaths in the US
+A correlation coefficient of .724 was observed between Influenza & COVID-19 Deaths in the US. 
 ![influenza/covid/corr](Resources/Images/influenza_covid_corr.png)
 
-Additionally, a correlation coefficient of .9985 was observed between Influenza & COVID-19 Deaths of all the states in the US. This shows how severe both of these diseases are and how they ultimately lead to death if not treated.
+Additionally, a correlation coefficient of .9985 was observed between Pneumonia & COVID-19 Deaths of all the states in the US. This shows how severe both of these diseases are and how they ultimately lead to death if not treated.
 ![pneumonia/covid/corr](Resources/Images/pneumonia_covid_corr.png)
 
 The SEM value for the sample Influenza Deaths is 0.515
