@@ -33,3 +33,6 @@ Additionally, a correlation coefficient of .9985 was observed between Influenza 
 ![pneumonia/covid/corr](Resources/Images/pneumonia_covid_corr.png)
 
 ![semflu](Resources/Images/SEMFlu.png)
+
+![sempneumonia](Resources/Images/SEMPNA.png)
+
