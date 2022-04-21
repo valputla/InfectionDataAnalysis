@@ -5,7 +5,12 @@
 Various Plotting Methods (Scatterplots, Barplots, and Piecharts), Linear Regression, Data Visualization
 
 ## Technologies
-Python, Matplotlib, Pandas, Seaborn, Numpy, Scipy.Stats
+- Python 
+- Matplotlib 
+- Pandas
+- Seaborn
+- Numpy
+- Scipy.Stats
 
 ## Featured Notebooks and files
 **CovidDeathRateAnalysis.ipynb** 
