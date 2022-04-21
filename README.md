@@ -20,3 +20,4 @@ Python, Matplotlib, Pandas, Seaborn, Numpy, Scipy.Stats
 - CSV file with our raw data. It looks at COVID-19, Influenza, and Pneumonia deaths by state, age group, gender, and month/year.
 
 ## Analysis and Observed Trends
+![CorrelationAge/CovidDeaths](AgeVsDeaths.png)
