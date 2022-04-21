@@ -22,6 +22,7 @@ Python, Matplotlib, Pandas, Seaborn, Numpy, Scipy.Stats
 ## Analysis and Observed Trends
 
 **Correlation Graphs and Trends**
+
 A strong correlation was observed between Age Groups & COVID-19 Deaths of all the states in the US. This suggests the older you are, the risk of dying from COVID-19 is higher. This makes sense due to comorbidities of other diseases and differences in immune systems.
 ![AgeVsDeaths](Resources/Images/AgeVsDeaths.png)
 
