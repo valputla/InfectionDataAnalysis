@@ -36,7 +36,9 @@ The SEM value for the sample Influenza Deaths is 0.515
 
 ![semflu](Resources/Images/SEMFlu.png)
 
+The SEM value for the sample Pneumonia Deaths is 27.09. 
 
+![sempneumonia](Resources/Images/SEMPNA.png)
 # Suggestions for Further Analysis
 - Compare the deaths of COVID-19 looking at the lens of pre-vaccine and post-vaccine
 - Additionally, using the information we have on COVID-19 Deaths for the US and compare this to another dataset looking at other countries
