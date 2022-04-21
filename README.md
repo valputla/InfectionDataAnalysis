@@ -51,5 +51,5 @@ The SEM value for the sample Pneumonia Deaths is 27.09.
 # Suggestions for Further Analysis
 - Compare the deaths of COVID-19 looking at pre & post vaccine rollout
 - Additionally, using the information we have on COVID-19 Deaths for the US and compare this to another dataset looking at other countries
-- Also, we could look at correlation of COVID-19 Deathas and red/blue states
+- Also, we could look at correlation of COVID-19 Deaths and red/blue states
 
