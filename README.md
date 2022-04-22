@@ -1,4 +1,4 @@
-Slide Deck: 
+Slide Deck: https://github.com/vishaalgupta/InfectionDataAnalysis/blob/main/Resources/COVID19DeathRateAnalysisSlideDeck.pdf
 
 
 ![ReadMephoto](https://user-images.githubusercontent.com/93561950/163493317-fc706fc6-d6d8-477b-a6ad-cc177551bd21.png)
