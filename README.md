@@ -1,3 +1,6 @@
+Slide Deck: 
+
+
 ![ReadMephoto](https://user-images.githubusercontent.com/93561950/163493317-fc706fc6-d6d8-477b-a6ad-cc177551bd21.png)
 # Infection Data Analysis
 # Vishaal Gupta, Lindsey Morales, Atika Hemani, Isaac Rosenthal
@@ -41,15 +44,17 @@ A correlation coefficient of .724 was observed between Influenza & COVID-19 Deat
 Additionally, a correlation coefficient of .9985 was observed between Pneumonia & COVID-19 Deaths of all the states in the US. This shows how severe both of these diseases are and how they ultimately lead to death if not treated.
 ![pneumonia/covid/corr](Resources/Images/pneumonia_covid_corr.png)
 
-The SEM value for the sample Influenza Deaths is 0.515
+The SEM value for the sample Influenza Deaths is 0.515. Exhibiting a low standard error, this indicates that our sample mean accurately represents the population. 
 
 ![semflu](Resources/Images/SEMFlu.png)
 
-The SEM value for the sample Pneumonia Deaths is 27.09. 
+The SEM value for the sample Pneumonia Deaths is 27.09. Higher than that of Influenza, this standard error indicates that our sample mean does not represent the population as well. Moving forward, minimizing standard error by having a more representatitive sample would inmprove the reliability of this analysis.  
 
 ![sempneumonia](Resources/Images/SEMPNA.png)
 # Suggestions for Further Analysis
 - Compare the deaths of COVID-19 looking at pre & post vaccine rollout
 - Additionally, using the information we have on COVID-19 Deaths for the US and compare this to another dataset looking at other countries
 - Also, we could look at correlation of COVID-19 Deaths and red/blue states
+
+
 
